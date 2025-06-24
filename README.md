@@ -77,6 +77,7 @@
 **部分内容可能更新不够及时，请注意版本对应**
 
 - [📚 核心 Wiki 文档](https://docs.mai-mai.org) - 项目最全面的文档中心，你可以了解麦麦有关的一切。
+- [Tavily MCP 插件文档](docs/tavily_mcp_plugin.md) - 配置并使用 Tavily MCP 搜索功能。
 
 ### 设计理念(原始时代的火花)
 
